@@ -1,0 +1,27 @@
+
+
+java:S1845'"iRename field "isPhoneNumberValid" to prevent any misunderstanding/clash with method "isPhoneNumberValid".(£¢»Ó
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(ÙŒÉ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ò•ıÒøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÙŒÉ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•æõé
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ê’ãàşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñôÉ²øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÙŒÉ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾˜ÓÌ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÙŒÉ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Î©İ«ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ìÄ¢°úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Â‘ƒô
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÙŒÉ8é„£ã·/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°èÕ•8Ş¤ã·/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÙŒÉ8»´¦ã·/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹×‹ãÿÿÿÿÿ8¼´¦ã·/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ş«™8¼´¦ã·/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ÛÌòúÿÿÿÿ8ç­¨ã·/
+z
+java:S1192	"dDefine a constant instead of duplicating this literal "-----------------------------------" 6 times.(ÙŒÉ
+d
+java:S1192"NDefine a constant instead of duplicating this literal "+355695474025" 3 times.(•æõé
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿÷Ìüÿÿÿÿ

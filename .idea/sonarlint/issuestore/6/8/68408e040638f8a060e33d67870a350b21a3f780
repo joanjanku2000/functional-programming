@@ -1,0 +1,15 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±ÖÐÔþÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(Åñ­õþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±ÖÐÔþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±ÖÐÔþÿÿÿÿ
+b
+java:S1192"GDefine a constant instead of duplicating this literal "Hello " 3 times.(±ÖÐÔþÿÿÿÿ
+‚
+java:S1192"gDefine a constant instead of duplicating this literal ", thanks for registering phone number " 3 times.(‡ôÕþùÿÿÿÿ
+c
+java:S1192	"FDefine a constant instead of duplicating this literal "Maria" 3 times.(®ïœ•8“Øþâ·/
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üå„Æûÿÿÿÿ
+@
+java:S5411"*Use the primitive boolean expression here.(ì€óÃ
