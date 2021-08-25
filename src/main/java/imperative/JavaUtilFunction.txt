@@ -1,0 +1,6 @@
+java.util.function
+
+Predicate represents a boolean valued function argument.
+
+Predicate return true or false, for example, we can pass the below line of code to filter as an argument
+Predicate<Person> personPredicate = p -> p.gender == Gender.MALE;
