@@ -7,3 +7,4 @@ Functional Interfaces and Streams examples
 - (Bi)Predicate
 - (Bi)Supplier
 - Streams
+- Combinator Pattern
